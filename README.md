@@ -14,13 +14,14 @@ I'm a self-motivated developer with a strong interest in building scalable appli
 Currently working on:
 - 🔧 [BCStudentMart](https://github.com/Sagor2050/BCStudentMart): a peer-to-peer academic marketplace
 - 🍳 [Chef Claude](https://github.com/Sagor2050/chef-claude): an AI-powered recipe assistant
-- 🌐 Portfolio Website using HTML, CSS & JS
+- 🌐 Portfolio Website using React/Firebase 
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages**  
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) 
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
