@@ -1,57 +1,76 @@
-# 👋 Hi, I'm Sagor Sutra Dhor
+# 👋 Hi there, I'm **Sagor Sutra Dhor**
 
-🎓 Computer Science Student at Brooklyn College  
-🌍 Originally from Bangladesh | Studying in the USA  
-💡 Passionate about building impactful full-stack web apps  
-🚀 Exploring AI, open-source, and cloud technologies  
-
----
-
-## 🧠 About Me
-
-I'm a self-motivated developer with a strong interest in building scalable applications. I love turning ideas into real-world solutions and constantly learning new tools and frameworks to improve my craft.
-
-Currently working on:
-- 🔧 [BCStudentMart](https://github.com/Sagor2050/BCStudentMart): a peer-to-peer academic marketplace
-- 🍳 [Chef Claude](https://github.com/Sagor2050/chef-claude): an AI-powered recipe assistant
-- 🌐 Portfolio Website using React/Firebase 
+🎓 CS Undergrad @ Brooklyn College  
+🌍 From Bangladesh 🇧🇩 | Living in the USA 🇺🇸  
+🌐 Passionate about Full-Stack Development & AI Integration  
+🤝 Actively contributing to Open Source & Research
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Current Projects
 
-**Languages**  
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) 
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
+- 🧑‍🎓 [**BCStudentMart**](https://github.com/Sagor2050/BCStudentMart): Peer-to-peer marketplace for Brooklyn College students  
+- 🍳 [**Chef Claude**](https://github.com/Sagor2050/chef-claude): AI-powered recipe generator using Claude API  
+- 🌐 **Personal Portfolio**: Built with React + Tailwind + Firebase (SEO-optimized)
+
+---
+
+## 🧠 Who I Am
+
+I'm a driven developer with a focus on **impactful, scalable applications**. Whether it's helping students connect or integrating AI into daily tools, I love creating solutions that matter.
+
+- 💻 Self-taught full-stack web dev with strong academic foundation  
+- 🔍 Research Assistant exploring web security & open-source tooling  
+- ✍️ Sharing tech, study abroad insights, and student life on [YouTube](https://www.youtube.com/@sagorsd)
+
+---
+
+## ⚒️ Tech Stack
+
+**Languages & Fundamentals**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **Frontend**  
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css) 
-![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 **Backend & Tools**  
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase) 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🏆 Badges
+
+![First Contribution](https://img.shields.io/badge/First%20PR%20Reviewed-✅-green)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-blue)
+![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-critical)
+![Research Assistant](https://img.shields.io/badge/Research-Assistant-yellow)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Sagor2050's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sagor2050&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sagor2050&show_icons=true&theme=radical&hide_rank=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagor2050&theme=radical" height="165"/>
+</p>
 
 ---
 
-## 📫 Contact Me
+## 📬 Let’s Connect!
 
-- 📧 sagorsd975@gmail.com  
-- 🌐 [Portfolio Website](https://sagor2050.github.io/MyPortfolio)  
-- 💼 [LinkedIn](#) www.linkedin.com/in/sdsagor
+- 📧 Email: [sagorsd975@gmail.com](mailto:sagorsd975@gmail.com)  
+- 🌐 Portfolio: [sagor2050.github.io/MyPortfolio](https://sagor2050.github.io/MyPortfolio)  
+- 💼 LinkedIn: [linkedin.com/in/sdsagor](https://www.linkedin.com/in/sdsagor)  
+- 🎥 YouTube: [@sagorsd](https://www.youtube.com/@sagorsd)
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
 
--->
