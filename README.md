@@ -21,7 +21,7 @@ I'm a driven developer with a focus on **impactful, scalable applications**. Whe
 
 - 💻 Self-taught full-stack web dev with strong academic foundation  
 - 🔍 Research Assistant exploring web security & open-source tooling  
-- ✍️ Sharing tech, study abroad insights, and student life on [YouTube](https://www.youtube.com/@sagorsd)
+- ✍️ Sharing tech, study abroad insights, and student life on [YouTube](https://www.youtube.com/@StudyInTheUSA)
 
 ---
 
@@ -68,7 +68,7 @@ I'm a driven developer with a focus on **impactful, scalable applications**. Whe
 - 📧 Email: [sagorsd975@gmail.com](mailto:sagorsd975@gmail.com)  
 - 🌐 Portfolio: [sagor2050.github.io/MyPortfolio](https://sagor2050.github.io/MyPortfolio)  
 - 💼 LinkedIn: [linkedin.com/in/sdsagor](https://www.linkedin.com/in/sdsagor)  
-- 🎥 YouTube: [@sagorsd](https://www.youtube.com/@sagorsd)
+- 🎥 YouTube: [@sagorsd](https://www.youtube.com/@StudyInTheUSA)
 
 ---
 
