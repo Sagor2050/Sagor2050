@@ -10,9 +10,6 @@
 ## 🚀 Current Projects
 
 - 🧑‍🎓 [**BCStudentMart**](https://github.com/Sagor2050/BCStudentMart): Peer-to-peer marketplace for Brooklyn College students  
-- 🍳 [**Chef Claude**](https://github.com/Sagor2050/chef-claude): AI-powered recipe generator using Claude API  
-- 🌐 **Personal Portfolio**: Built with React + Tailwind + Firebase (SEO-optimized)
-
 ---
 
 ## 🧠 Who I Am
