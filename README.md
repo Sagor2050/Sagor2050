@@ -1,18 +1,18 @@
-# 👋 Hi there, I'm **Sagor Sutra Dhor**
+#  Hi there, I'm **Sagor Sutra Dhor(SD)**
 
-🎓 CS Undergrad @ Brooklyn College  
-🌍 From Bangladesh 🇧🇩 | Living in the USA 🇺🇸  
-🌐 Passionate about Full-Stack Development & AI Integration  
-🤝 Actively contributing to Open Source & Research
+ CS Undergrad @ Brooklyn College  
+ From Bangladesh 🇧🇩 | Living in the USA 🇺🇸  
+ Passionate about Full-Stack Development & AI Integration  
+ Actively contributing to Open Source & Research
 
 ---
 
-## 🚀 Current Projects
+##  Current Projects
 
 - 🧑‍🎓 [**BCStudentMart**](https://github.com/Sagor2050/BCStudentMart): Peer-to-peer marketplace for Brooklyn College students  
 ---
 
-## 🧠 Who I Am
+##  Who I Am
 
 I'm a driven developer with a focus on **impactful, scalable applications**. Whether it's helping students connect or integrating AI into daily tools, I love creating solutions that matter.
 
@@ -42,7 +42,7 @@ I'm a driven developer with a focus on **impactful, scalable applications**. Whe
 
 ---
 
-## 🏆 Badges
+##  Badges
 
 ![First Contribution](https://img.shields.io/badge/First%20PR%20Reviewed-✅-green)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-blue)
