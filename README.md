@@ -9,16 +9,16 @@
 
 ##  Current Projects
 
-- 🧑‍🎓 [**BCStudentMart**](https://github.com/Sagor2050/BCStudentMart): Peer-to-peer marketplace for Brooklyn College students  
+- ##AlgoDeque - A fullstack adaptive learning platform for computer science students.
 ---
 
 ##  Who I Am
 
 I'm a driven developer with a focus on **impactful, scalable applications**. Whether it's helping students connect or integrating AI into daily tools, I love creating solutions that matter.
 
-- 💻 Self-taught full-stack web dev with strong academic foundation  
-- 🔍 Research Assistant exploring web security & open-source tooling  
-- ✍️ Sharing tech, study abroad insights, and student life on [YouTube](https://www.youtube.com/@StudyInTheUSA)
+-  Self-taught full-stack web dev with strong academic foundation  
+-  Research Assistant exploring web security & open-source tooling  
+-  Sharing tech, study abroad insights, and student life on [YouTube](https://www.youtube.com/@StudyInTheUSA)
 
 ---
 
@@ -51,7 +51,7 @@ I'm a driven developer with a focus on **impactful, scalable applications**. Whe
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sagor2050&show_icons=true&theme=radical&hide_rank=true" height="165"/>
@@ -60,12 +60,12 @@ I'm a driven developer with a focus on **impactful, scalable applications**. Whe
 
 ---
 
-## 📬 Let’s Connect!
+##  Let’s Connect!
 
-- 📧 Email: [sagorsd975@gmail.com](mailto:sagorsd975@gmail.com)  
-- 🌐 Portfolio: [sagor2050.github.io/MyPortfolio](https://sagor2050.github.io/MyPortfolio)  
-- 💼 LinkedIn: [linkedin.com/in/sdsagor](https://www.linkedin.com/in/sdsagor)  
-- 🎥 YouTube: [@sagorsd](https://www.youtube.com/@StudyInTheUSA)
+-  Email: [sagorsd975@gmail.com](mailto:sagorsd975@gmail.com)  
+-  Portfolio: [sagor2050.github.io/MyPortfolio](https://sagor2050.github.io/MyPortfolio)  
+-  LinkedIn: [linkedin.com/in/sdsagor](https://www.linkedin.com/in/sdsagor)  
+-  YouTube: [@sagorsd](https://www.youtube.com/@StudyInTheUSA)
 
 ---
 
